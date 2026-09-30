@@ -14,10 +14,10 @@ Nothing I say or send names the product, the brand, Kickstarter, or a price. The
 
 | Channel | When | Expected reach | Expected finishes |
 |---|---|---|---|
-| Torrance Beach parking lot, adults | Tue/Wed/Thu, asks 7:30–8:00 am during high school practice | 20–25 adults per session | [fill in] |
-| The Wedge, Newport Beach | Sat/Sun 6:00–10:00 am on swell weekends | 50–60 people | [fill in] |
+| Torrance Beach parking lot, adults | Tue/Wed/Thu, asks 7:30–8:00 am during high school practice | 20–25 adults per session | 25 |
+| The Wedge, Newport Beach | Sat/Sun 6:00–10:00 am on swell weekends | 50–60 people | 20 |
 | Flat-weekend fallback: surf shops (owner permission) and beach-adjacent cafes | Weekends with no swell | ~50 approaches | 15–20 |
-| Luke Wells, Cal Poly SLO surf team group | Posted [date] | ~50 | ~10 |
+| Luke Wells, Cal Poly SLO surf team group | Posted 30 September | ~50 | ~10 |
 
 At Torrance I am approaching the adults in the lot, mostly parents who stay to watch plus dawn patrol regulars, and not the team. Most of the roster is under 18.
 
