@@ -51,7 +51,7 @@ The four read-offs the assignment asks for:
 
 ## Part 3. What I notice
 
-[YOUR PARAGRAPH HERE — delete this line. What the pattern is, what causes it, what it does to a profit estimate.]
+As price increases from $1.00 to $2.50, overall buyer participation collapses from 32 buyers down to just 10, while volume becomes hyper-concentrated at the top. At $1.00, the single largest buyer accounts for 10% of total volume, but at $2.00, the top three buyers drive 50% of demand (419 units total), and by $2.50, the top three command 68% of volume—with a single individual purchasing 30% of all units (out of 255 total). Buyers remaining at $2.50 are extreme power users or institutional buyers who face urgent usage needs or lack budget sensitivity, operating entirely outside the norms of everyday consumers. Setting a price at $2.50 anchors the entire business’s revenue projections on a fragile baseline of just 10 total buyers. If even one of those top buyers decides not to buy or was merely expressing hypothetical interest, over a quarter to nearly a third of the projected revenue vanishes overnight. is this good?
 
 ## Part 4. The log
 
