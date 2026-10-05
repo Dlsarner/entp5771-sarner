@@ -15,15 +15,15 @@ Channel is identified by the date and time of each response, matched against my 
 
 | Channel | Approached | Started | Passed screener | Finished |
 |---|---|---|---|---|
-| Torrance Beach adults | 0 | 0 | 0 | 0 |
+| Torrance Beach adults | 10 | 9 | 5 | 5 |
 | The Wedge / fallback | 0 | 0 | 0 | 0 |
-| Luke Wells, Cal Poly SLO | [posted?] | 0 | 0 | 0 |
-| **Total** | **0** | **0** | **0** | **0** |
+| Luke Wells, Cal Poly SLO | not yet posted | 0 | 0 | 0 |
+| **Total** | **10** | **9** | **5** | **5** |
 
 ## Session log
 
 | Date | Channel | Time | Approached | Notes |
 |---|---|---|---|---|
-| | | | | |
+| Tue 29 Sep | Torrance | 7:30–8:00 am | 10 | 4 screened out at the age question. Check whether any are my own test |
 
-First Torrance session: Tuesday 29 September. First Wedge session: the next swell weekend.
+First Torrance session: Tuesday 29 September. I missed Thursday 1 October. Luke has said he will post the week of 5 October. No Wedge session yet.
