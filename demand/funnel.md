@@ -1,29 +1,28 @@
-# Funnel
+# Funnel, final
 
-Form went live Sunday 27 September 2026. Counts below are updated after every session.
+Survey closed 29 October 2026 after the second Torrance session. Approaches were tallied on my phone.
 
-## How each stage is counted
+| Channel | Approached | Started | Passed screener | Finished | Response rate (finished ÷ approached) |
+|---|---|---|---|---|---|
+| Torrance, Tue 29 Sep (asked, then texted link to finish later) | 10 | 0 | 0 | 0 | 0% |
+| Luke Wells, Cal Poly SLO surf team group chat (posted link) | ~50 | 1 | 1 | 1 | about 2% |
+| Torrance, Thu 29 Oct (coach emailed parents first; completed on the spot) | 35 | 23 | 18 | 18 | **51%** |
+| Personal network: my sibling and cousin, 28 Oct (not a planned channel) | 2 | 2 | 2 | 2 | not comparable |
+| The Wedge / Newport fallback | 0 | 0 | 0 | 0 | never ran |
+| **Total** | **~97** | **26** | **21** | **21** | |
 
-- **Approached:** tallied by hand on my phone during each session.
-- **Started:** every response Google Forms records. A respondent who is screened out still leaves a response, because routing to "Submit form" submits what they answered so far. Someone who opens the link and closes it without submitting leaves no trace, so this count is a floor, not an exact figure.
-- **Passed screener:** responses that reached the valuation question (Q9 answered).
-- **Finished:** responses with Q9 and the characteristics section completed.
+## Correction to what I reported earlier
 
-Channel is identified by the date and time of each response, matched against my session log, since the form does not ask where the respondent came from.
+My Week 6 funnel said that of the 10 people I approached on 29 September, 9 started and 5 finished, with 4 screened out at the age question. That was wrong. Five of the ten agreed and took the link, and none of them submitted anything. There are no responses in the export from that day. I told Prof. Hatch on 28 October.
 
-## Counts
+## Where I lost people
 
-| Channel | Approached | Started | Passed screener | Finished |
-|---|---|---|---|---|
-| Torrance Beach adults | 10 | 9 | 5 | 5 |
-| The Wedge / fallback | 0 | 0 | 0 | 0 |
-| Luke Wells, Cal Poly SLO | not yet posted | 0 | 0 | 0 |
-| **Total** | **10** | **9** | **5** | **5** |
+**Before starting: the biggest loss, and an access finding.** Every person I asked to "do it later" was lost. Torrance in September went 10 asked → 5 yeses → 0 started, and Luke's post to about 50 people produced one. In October, the same lot with the same kind of adults went 35 asked → 23 started, because people filled it in on their own phone while I stood there, and because the coach had told the parents about it by email first. The difference between 0% and 51% was not the people. It was whether the ask and the answer happened in the same minute, and whether someone they trusted had vouched for me.
 
-## Session log
+**At the screener: 5 of 23 (22%).** One was under 18 and four said someone else pays for their outdoor gear. At a surf contest, those are most likely young adult surfers whose parents buy their gear. That is the screen doing its job, not a bad screen.
 
-| Date | Channel | Time | Approached | Notes |
-|---|---|---|---|---|
-| Tue 29 Sep | Torrance | 7:30–8:00 am | 10 | 4 screened out at the age question. Check whether any are my own test |
+**Midway: none.** Everyone who passed the screener finished, so the instrument did not lose anyone partway through.
 
-First Torrance session: Tuesday 29 September. I missed Thursday 1 October. Luke has said he will post the week of 5 October. No Wedge session yet.
+## What this means for Milestone II
+
+A finished response cost me about two adults approached at Torrance when they could complete on the spot, and effectively infinite when they couldn't. A sale will cost more than a free survey. The only channel with a measured conversion rate is in-person at Torrance with the coach's introduction.
