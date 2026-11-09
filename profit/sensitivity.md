@@ -10,7 +10,7 @@
 | Landed cost per unit (sets the stock in f, and replacements in c) | $17 | $23.08 | **+$6.08 (+36%)**, inside my $17–$25 range | | |
 | c, variable cost per unit | $8.36 at $51 | $16.32 at $51 | **+$7.96 per unit** (my high c is $18.55, so this is inside my range) | $6.64 at $51 | −$1.72 per unit |
 | N, reachable population | 360 | 251 | **−30%** | 391 | +9% |
-| Acquisition effort | $0 (assumed free) | $4.21 of effort per finished response, which is $12.63 an hour at the 29 Oct pace of about 20 minutes per response | **any wage above $12.63 an hour** | n/a | n/a |
+| Acquisition effort | $0 (assumed free) | $4.21 of effort per finished response, which is about $50 an hour at the 29 Oct pace of about 5 minutes per response | my time valued above about $50 an hour (at $20 an hour, still fragile, with peak $916) | n/a | n/a |
 | Demand: share of willing who actually buy | 100% | 70% | **−30%** | n/a | n/a |
 | Demand: every stated maximum overstated by the same amount | $0 | $8.20 lower for everyone | **−$8.20 per person (about 20% of the average answer)** | n/a | n/a |
 | Demand: drop the 3 parents | in | still fragile, peak falls to $896 | no flip | | |
@@ -22,9 +22,9 @@
 
 ## The belief my decision rests on
 
-Measured by how little change it takes, acquisition effort is closest to its threshold. My model assumes reaching a buyer is free. It flips to impossible at $12.63 an hour, and my own funnel already shows effort above that at any normal wage. The next-closest are N and the willing-to-buy rate, each at −30%. All three are the same underlying belief: that I can reach enough real buyers cheaply.
+Measured by how little change it takes, **N and the share of willing people who actually buy** are closest to their thresholds, each at −30%. f (+33%) and landed cost (+36%) come next. Acquisition effort is cheap per person at my 29 October pace and doesn't flip until my time is worth about $50 an hour, but that pace depended on the coach's email and a contest crowd. N and the buy-through rate are the same underlying belief: how many real buyers I can reach in a year.
 
-**In one sentence:** my decision rests on the belief that I can reach at least 250 screened-in adults who will actually buy, at almost no cost per person, and my one good morning at Torrance already suggests reaching them costs more than the margin can carry.
+**In one sentence:** my decision rests on the belief that at least about 250 screened-in adults I can actually reach will buy within the year. 30% fewer, or 30% of willing people not following through, and even the best case loses money.
 
 **Consequence is not confidence.** The return rate is the input I'm least sure of (2% or 6%), and it doesn't matter. On its own, going from 2% to 6% adds about $1.16 per unit, and the best case stays fragile with a peak of $1,283. Landed cost I'm surer of, since I have a working estimate near $20, but it matters a lot. Every dollar of landed cost is $245 of f, and at $23.08 a unit the best case turns impossible. Payment fees and packaging I'm confident about, and they barely move profit either. Being unsure of something only matters if being wrong about it flips the reading.
 
@@ -44,8 +44,8 @@ Measured by how little change it takes, acquisition effort is closest to its thr
 | Free alternatives (showers, towels, a jug) | **fixed** | 9 of 21 respondents usually have a shower where they go |
 | Season and number of contest days | **fixed** | Units arrive in winter |
 
-**Next experiment:** acquisition effort and the willing-to-buy rate, tested together with deposits at Torrance. It is the most consequential input I can test cheaply. See next-question.md.
+**Next experiment:** N and the willing-to-buy rate, tested together with deposits at Torrance. It is the most consequential input I can test cheaply. See next-question.md.
 
 **Design change:** lead the description with what it's for, aim it at parents, and sell in person, which removes shipping from c.
 
-**Exposure:** production quality, the risk I named in Week 3. I can't test it before signing, and I can't design it away. **[YOUR CHOICE: accept, hedge or decline, with one sentence on why. For example, hedging would mean keeping the number of speculative units small, so that a bad batch costs less.]**
+**Exposure:** production quality, the risk I named in Week 3. I can't test it before signing, and I can't design it away. **I accept it.** I think it's worth the risk.

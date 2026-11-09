@@ -6,11 +6,11 @@
 
 **The answer:** on stated willingness, probably yes, but not settled by my own stopping rule. 6 of 21 screened respondents (29%) named $51 or more, or 14% if the three people who said $55 were rounding up from $50. Both clear 10%, but my stopping rule asked for 60 responses and a share clearly above 15%. I have 21 responses, and the low end sits inside my 5–15% "not settled" band.
 
-**Did the answer change what I would do?** **[YOUR ANSWER, one or two sentences.]** The facts to work from: Week 3 said a favorable answer meant signing for 1,000 and launching the 245 at $51. The profit model says that even with a favorable share, the 245 lose money at $51 in every case, and only clear zero at low costs with N of at least 251. The share I asked about did not decide the order. Reach and landed cost did.
+**Did the answer change what I would do?** Yes. Before the survey I didn't know whether to sign for 1,000 or order about 800, and a result above my 10% bar is what points me to signing for 1,000. The profit model doesn't settle it on its own: it says the 245 extra units only clear zero at low costs with N of at least 251.
 
 ## The next most urgent unknown
 
-**Can I reach buyers cheaply enough?** sensitivity.md shows the decision rests on reaching at least about 250 real buyers at almost no cost each, and my funnel has only measured survey responses, never a purchase.
+**How many of the people I can reach will actually buy?** sensitivity.md shows everything rests on reaching at least about 250 real buyers in a year. My funnel has only ever measured free survey responses, never a purchase.
 
 **The question, so that someone else could go and answer it:**
 
@@ -18,22 +18,13 @@
 
 **Is it reducible?** Yes. The only reason it's unknown is that nobody has asked anyone for money yet. Three mornings would answer it. It would be easy to call reach unpredictable, and it isn't. It's an afternoon of work I haven't done.
 
-**Would the answer change what I do?** Yes, in both directions:
+**Would the answer change what I do?** Yes. Signing for 1,000 commits me to the stock, but not to the rest of f: the online store, photos, booths, storage and ads ($60 to $2,868) can still be avoided. The answer decides whether I spend it.
 
-- **Sign for 1,000** if roughly one in four adults approached puts down a deposit and each takes about 20 minutes or less. That is the pace that reaches the 106 to 126 buyers break-even needs at $51 from an N of 360, with my time counted.
-- **Order about 800 and don't open retail** if deposits are rarer than that or take close to an hour each, as my survey pace suggests.
+- **If roughly one in four adults approached puts down a deposit, I open retail:** the online store, contest booths and some ads. That is the pace that reaches the roughly 106 buyers break-even needs at $51 from an N of 360.
+- **If deposits are rarer than that, I don't open retail.** I sell the 245 in person through the coach and Luke, spend nothing more, and keep what doesn't sell for next summer.
 
-**What I am not choosing, and why.** Landed cost is also testable and consequential: above $23.08 a unit, even the best case is impossible. But a factory quote is a single email, not an unknown, and it can't rescue the decision if reach fails. Production quality is not reducible before signing, so the answer to it is to keep the commitment small rather than to research it.
+**What I am not choosing, and why.** Landed cost is also testable and consequential: above $23.08 a unit, even the best case is impossible. But a factory quote is a single email, not an unknown, and it can't rescue the decision if reach fails. Production quality is not reducible before signing, so I treat it as exposure and accept it (sensitivity.md).
 
 ## The call
 
-**[YOUR PARAGRAPH. Hatch marks the reasoning, not the choice, and says this one has to be yours. Answer his question: given demand, cost and scale, is there a path to profit that survives being somewhat wrong, and are you willing to commit to it?**
-
-**Use the band and the sensitivity, not enthusiasm. The facts it can draw on:**
-- **The reading: impossible in most of my ranges, fragile at best (23.8%, in two pieces).**
-- **The best case flips to impossible on a 30% shortfall in reach, or a landed cost above $23.08, or my time valued above $12.63 an hour.**
-- **$51 loses money in every case.**
-- **The 755 backer units are owed regardless. The choice is only about the 245.**
-- **Your exposure answer from sensitivity.md.**
-
-**"Not yet" and "not like this" are allowed answers.]**
+I would sign for 1,000. My model says the 245 extra units lose money in most of my ranges: about $1,500 at low costs with the smaller N, and up to about $8,000 at high costs. Only the best case makes money, about $1,500 at $35, and it turns into a loss on a 30% shortfall in reach. I know that, and I would still sign, because I think it's worth the risk. I am accepting the production risk rather than hedging it, and I will use the deposit test to decide whether to spend anything more on selling the 245.
