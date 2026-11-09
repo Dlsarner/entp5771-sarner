@@ -1,29 +1,38 @@
-# Funnel
+# Funnel, competition survey
 
-Form went live Sunday 27 September 2026. Counts below are updated after every session.
+**Form went live:** [REAL DATE AND TIME]
+**Closes:** Sunday 22 November
+
+[If the form went live after Friday 6 November, say so here in one sentence, with the real date. Don't backdate it.]
+
+Updated after every session, not reconstructed later.
 
 ## How each stage is counted
 
-- **Approached:** tallied by hand on my phone during each session.
-- **Started:** every response Google Forms records. A respondent who is screened out still leaves a response, because routing to "Submit form" submits what they answered so far. Someone who opens the link and closes it without submitting leaves no trace, so this count is a floor, not an exact figure.
-- **Passed screener:** responses that reached the valuation question (Q9 answered).
-- **Finished:** responses with Q9 and the characteristics section completed.
+- **Approached:** tallied by hand on my phone during each session. Each person is counted once, the first time I ask.
+- **Started:** every response Google Forms records. Someone routed out by the screen still leaves a response, because routing to "submit form" submits what they answered. Someone who opens the link and closes it leaves no trace, so this is a floor.
+- **Passed screener:** responses that answered Q9, the first price question.
+- **Finished:** responses that answered Q22, the last question.
 
-Channel is identified by the date and time of each response, matched against my session log, since the form does not ask where the respondent came from.
+Test responses I made while checking the form were deleted before the first real respondent: [NUMBER], recorded in instrument-notes.md.
 
-## Counts
+## By channel
 
-| Channel | Approached | Started | Passed screener | Finished |
+| Channel and session | Approached | Started | Passed screener | Finished |
 |---|---|---|---|---|
-| Torrance Beach adults | 10 | 9 | 5 | 5 |
-| The Wedge / fallback | 0 | 0 | 0 | 0 |
-| Luke Wells, Cal Poly SLO | not yet posted | 0 | 0 | 0 |
-| **Total** | **10** | **9** | **5** | **5** |
+| [Day one: channel, date] | | | | |
+| | | | | |
+| **Total** | | | | |
 
-## Session log
+## Screen-outs
 
-| Date | Channel | Time | Approached | Notes |
-|---|---|---|---|---|
-| Tue 29 Sep | Torrance | 7:30–8:00 am | 10 | 4 screened out at the age question. Check whether any are my own test |
+| Reason | Count |
+|---|---|
+| Under 18 (Q1) | |
+| Did survey one (Q2) | |
+| No sand or wet gear (Q3) | |
+| Someone else pays (Q4) | |
 
-First Torrance session: Tuesday 29 September. I missed Thursday 1 October. Luke has said he will post the week of 5 October. No Wedge session yet.
+## Notes by session
+
+[One or two lines after each session: anything unusual, such as rain, a cancelled practice, or a lot of "later"s.]
